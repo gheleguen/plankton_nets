@@ -1,9 +1,11 @@
 site_name: plankton_nets
 nav:
     - Introduction: README.md
-    - 1. Les connecteurs: connecteurs_imbriques.md
-    - Voie abandonnées:
-      - Connecteurs à rotules DIY: connecteurs_a_rotules.md
+    - 1. Fabrication du filet:
+    - 2. Fabrication des collecteurs:
+      - Micro A: collecteur_microA.md
+      - Micro B: collecteur_microB.md
+
         
 theme:
     name: material
