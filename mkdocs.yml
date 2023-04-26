@@ -1,7 +1,7 @@
 site_name: plankton_nets
 nav:
     - Introduction: README.md
-    - 1. Fabrication du filet:
+    - 1. Fabrication du filet: test.md
     - 2. Fabrication des collecteurs:
       - Micro A: collecteur_microA.md
       - Micro B: collecteur_microB.md
