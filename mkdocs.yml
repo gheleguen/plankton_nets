@@ -1,0 +1,25 @@
+site_name: plankton_nets
+nav:
+    - Introduction: README.md
+    - 1. Les connecteurs: connecteurs_imbriques.md
+    - Voie abandonnées:
+      - Connecteurs à rotules DIY: connecteurs_a_rotules.md
+        
+theme:
+    name: material
+    palette:
+      primary: yellow
+
+plugins:
+  - search
+  - i18n:
+      default_language: fr
+      languages:
+        fr: Français
+
+markdown_extensions:
+    - smarty
+    - sane_lists
+    - admonition
+    - toc:
+        permalink: true
